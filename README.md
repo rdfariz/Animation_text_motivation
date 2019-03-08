@@ -1,2 +1,1 @@
-# Animation_text_motivation
-Animation text about motivation of life
+Demo: https://text-motivation.firebaseapp.com/
